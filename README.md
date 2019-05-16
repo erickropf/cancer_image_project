@@ -51,7 +51,18 @@ Executive Summary
 
 
 
+Source :
 
+@data{DVN/DBW86T_2018,
+author = {Tschandl, Philipp},
+publisher = {Harvard Dataverse},
+title = "{The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions}",
+UNF = {UNF:6:IQTf5Cb+3EzwZ95U5r0hnQ==},
+year = {2018},
+version = {DRAFT VERSION},
+doi = {10.7910/DVN/DBW86T},
+url = {https://doi.org/10.7910/DVN/DBW86T}
+}
 
 
 
