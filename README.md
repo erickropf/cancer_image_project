@@ -45,13 +45,7 @@ Executive Summary
   Through experimentation I have found less complicated models to perform better than complex ones especially with lower resolution image files. Larger image files do benefit from an added degree of complexity. I have found the lowest resolution files do have the lower scores consistently, but not drastically lower. Considering the proportionate increase in information, the performance increase is actually just incremental. Best greyscale 8 by 8 accuracy 0.619 and color 8 by 8 accuracy .697 vs Best greyscale 150 by 200 accuracy .707 and color 150 by 200 accuracy .709. These scores are accuracy scores as calculated by the model but in practice for a model of medical data we would also be concerned about other measures such as False Negatives and False Postives. At another time, I will quantify these and other performance measures. This is just the beginning, there are a great many parameters to adjust, learning rates to alter and optimizers to swap out. 
   
   
- 
-
-
-
-
-
-Source :
+ Source :
 
 @data{DVN/DBW86T_2018,
 author = {Tschandl, Philipp},
@@ -63,6 +57,12 @@ version = {DRAFT VERSION},
 doi = {10.7910/DVN/DBW86T},
 url = {https://doi.org/10.7910/DVN/DBW86T}
 }
+
+
+
+
+
+
 
 
 
