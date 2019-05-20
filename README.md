@@ -8,7 +8,9 @@
 
   This project seeks to identify images of pigmented skin cells collected by medical staff. The goal of medical researchers is to create a tool that can help to determine which images are of benign vs malignant cells. The datasets are available online at Kaggle and the origin of the set is Medical University of Vienna. The data includes diagnostic information classifying the images into seven categories. Supporting documentation states the images are representatively distributed. The data is available in a wide range of resolutions from 8 x 8 pixels to 450 x 600 pixels.
   Model performance will be measured by accuracy relative to a baseline and loss scores for a training set and a validation set of images. 
-
+## Table Of Contents ##
+ [1. Datasets](#1.-../Datasets)
+ 
  ## The Datasets ##
   The data consists of 10015 images of pigmented skin lesions, compiled by medical researchers to create a dataset for data scientists to use for image recognition. There is also a coordinated set of metadata included. The metadata includes information about the diagnosis for each image, the method used to determine each diagnosis, the patient's age and sex, as well as the localization of each image. Each image has its own ID and each lesion has its own ID. Some lesions have more than one image, there are over 7400 lesion ids.
 
